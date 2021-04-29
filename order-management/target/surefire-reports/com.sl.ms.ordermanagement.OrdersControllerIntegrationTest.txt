@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.sl.ms.ordermanagement.OrdersControllerIntegrationTest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.844 s - in com.sl.ms.ordermanagement.OrdersControllerIntegrationTest

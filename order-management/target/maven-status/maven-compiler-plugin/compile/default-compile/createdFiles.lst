@@ -1,0 +1,16 @@
+com\sl\ms\ordermanagement\items\ItemsRepository.class
+com\sl\ms\ordermanagement\orders\Orders.class
+com\sl\ms\ordermanagement\service\CustomUserDetailsService.class
+com\sl\ms\ordermanagement\exceptions\OrderNotFoundException.class
+com\sl\ms\ordermanagement\config\AuthenticationRequest.class
+com\sl\ms\ordermanagement\config\AuthenticationResponse.class
+com\sl\ms\ordermanagement\orders\OrdersRepository.class
+com\sl\ms\ordermanagement\WebSecurityConfig.class
+com\sl\ms\ordermanagement\config\JwtRequestFilter.class
+com\sl\ms\ordermanagement\OrderManagementApplication.class
+com\sl\ms\ordermanagement\controller\OrdersController.class
+com\sl\ms\ordermanagement\config\JwtUtil.class
+com\sl\ms\ordermanagement\config\SwaggerConfig.class
+com\sl\ms\ordermanagement\HelloWorldController.class
+com\sl\ms\ordermanagement\items\Items.class
+com\sl\ms\ordermanagement\service\OrderService.class
